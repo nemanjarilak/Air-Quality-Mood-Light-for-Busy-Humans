@@ -38,7 +38,6 @@ Our *artistically liberal* color scheme translates government air metrics into e
 
 - **🟢💚 Green Breathing (51-100)**  
 "Moderate" - Nature's way of saying "I'm fine" through clenched teeth  
-*What it means:* Your air is 51% hopes and 49% pollen
 
 - **🔵 Blue Solid (101-150)**  
 "Unhealthy for sensitive groups" (aka everyone under 30)  
