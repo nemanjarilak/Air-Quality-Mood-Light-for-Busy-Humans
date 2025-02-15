@@ -53,11 +53,11 @@ Ground   -> GND (Any ground pin)
 ### 3. Software Setup
 1. Replace these in the code like you're Jason Bourne:
 ```cpp
-const char* ssid = "rilak";          // Your WiFi name
-const char* password = "19711999";   // WiFi password (RIP your security)
+const char* ssid = "SSID";          // Your WiFi name
+const char* password = "PASS";   // WiFi password (RIP your security)
 const String API_KEY = "your_key_here"; // From step 1
-const float LATITUDE = 44.788125;    // Your crib's coordinates
-const float LONGITUDE = 20.535898;   // Get these from Google Maps
+const float LATITUDE = 40.000000;    // Your crib's coordinates
+const float LONGITUDE = 20.000000;   // Get these from Google Maps
 ```
 
 ### 4. Deployment
