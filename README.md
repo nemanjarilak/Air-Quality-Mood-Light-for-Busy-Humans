@@ -110,8 +110,9 @@ Only if the air quality gets REALLY bad. Consider it a feature.
 ---
 
 **Disclaimer:** Persistent red light may cause sudden urges to become a climate activist. Not responsible for LED-induced paranoia. If blinking continues for more than 4 hours, consult your local meteorologist.
+
 *Pro tip: If it's blinking red, consider:*  
-a) Opening a window  
+a) Fire up the air purifier  
 b) Moving to the countryside  
 c) Accepting your fate  
 
@@ -119,4 +120,4 @@ Built with ❤️ and questionable air quality from Belgrade,Serbia. Now go brea
 
 ---
 
-**Note to Users:** This device may cause sudden realizations that you live in a giant ashtray. Not responsible for existential crises induced by persistent red LEDs. Always remember: blinking means it still cares!
+**Note to Users:** This device may cause sudden realizations that you live in a giant ashtray. Not responsible for existential crises induced by persistent red LEDs.
