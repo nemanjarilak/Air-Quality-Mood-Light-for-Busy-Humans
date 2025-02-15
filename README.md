@@ -16,7 +16,7 @@ Meet your new passive-aggressive air quality monitor! This ESP8266-based project
 - **Real-time air quality updates** (every 30 minutes - we're not running a hospital here)
 - **Soothing color transitions** (like a lava lamp, but for existential dread)
 - **Dramatic breathing effects** (for when the AQI hits "are we in Beijing?")
-- **Passive monitoring** (it judges silently, like your mother-in-law)
+- **Passive monitoring** (it judges silently)
 - **WiFi auto-reconnect** (more reliable than your dating life)
 
 ## Why LEDs? 💡
