@@ -23,8 +23,40 @@ Meet your new passive-aggressive air quality monitor! This ESP8266-based project
 
 Who has time to read numbers? We've got colors!
 - Green: "Yay, photosynthesis mode activated!"
-- Blue: "Could be worse... unless you're a fish"
+- Blue: "Could be worse..."
 - Red: "Congratulations! You've achieved soup atmosphere"
+
+
+## AQI Color Decoder 🎨🌪️  
+(Now With 100% More Existential Dread!)
+
+Our *artistically liberal* color scheme translates government air metrics into emotional damage:
+
+- **🟢 Green Solid (0-50 AQI)**  
+"Fresh as a mountain breeze" (that exists only in Tesla commercials)  
+*Translation:* "You could almost pretend we're not doomed!"
+
+- **🟢💚 Green Breathing (51-100)**  
+"Moderate" - Nature's way of saying "I'm fine" through clenched teeth  
+*What it means:* Your air is 51% hopes and 49% pollen
+
+- **🔵 Blue Solid (101-150)**  
+"Unhealthy for sensitive groups" (aka everyone under 30)  
+*Real talk:* Your plants are judging your life choices
+
+- **🔵💙 Blue Breathing (151-200)**  
+"Unhealthy" - Congratulations, we're all sensitive now!  
+*Pro tip:* Great time to take up mouth breathing
+
+- **🔴 Red Solid (201-300)**  
+"Very Unhealthy" - Air so thick you could chew it  
+*Suggested response:* Practice your Darth Vader impressions
+
+- **🔴❤️ Red Breathing (300+)**  
+"Hazardous" - Basically breathing lentil soup  
+*Emergency protocol:* Become amphibious immediately
+
+*Disclaimer:* This color scheme approved by no one but my LED strip. For actual science, maybe don't trust blinking lights.
 
 ## Setup Instructions 🛠️
 
